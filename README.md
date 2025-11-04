@@ -130,7 +130,7 @@ kaggle-titanic-survival-prediction/
 - **Email**: soomeg2005@gmail.com
 - **Location**: Nagpur, Maharashtra, India
 - **Education**: BSc at Shivaji Science College, Nagpur
-- **Goal**: Pursue GSoC 2026 & Erasmus Mundus Scholarship
+- **Goal**: Pursue GSoC 2026 
 - **Started**: September 2025
 - **Completed**: November 2025
 - **GitHub**: [Sarthak-bit20](https://github.com/Sarthak-bit20)
